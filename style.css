@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    font-weight:500 ;
+}
+.top{
+    display: flex;
+    width:100%;
+}
+.intro{
+    width:40%;
+    margin:5%;
+}
+.intro img{
+    width:60%;
+}
+.head{
+    font-size: 40px;
+    font-weight: 900;
+    border-left: 6px solid aquamarine;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.intro p{
+    color:black;
+    margin-bottom:25px;  
+}
+.intro a{
+    background: rgb(221, 129, 107);
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+}
+#extra{
+    margin-top: 30px;
+}
+#color-it{
+    color:darkcyan;
+}
+.top-bottom h1{
+    font-weight: 800;
+    font-size: 45px;
+    text-align: center;
+}
