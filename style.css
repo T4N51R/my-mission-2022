@@ -48,17 +48,30 @@ body{
 }
 .box{
     display: flex;
-    width:100%;  
+    width:80%;  
+    margin-left: 10%;
+}
+#one h3, #two h3, #three h3{
+    margin-left: 8px;
+}
+#one p, #two p, #three p{
+    margin-left: 8px;
 }
 #one{
    background-color: coral; 
    padding:5px;
+   margin-left: 40px;
+   border-radius: 10px;
 }
 #two{
     background-color: chocolate;
     padding:5px;
+    margin-left: 4px;
+    border-radius: 10px;
 }
 #three{
     background-color: cornflowerblue;
     padding:5px;
+    margin-left: 4px;
+    border-radius: 10px;
 }
