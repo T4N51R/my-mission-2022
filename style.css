@@ -26,7 +26,7 @@ body{
     color:black;
     margin-bottom:25px;  
 }
-.intro a{
+.link-design{
     background: rgb(221, 129, 107);
     padding: 15px 25px;
     text-decoration: none;
@@ -74,4 +74,38 @@ body{
     padding:5px;
     margin-left: 4px;
     border-radius: 10px;
+}
+.middle{
+    display: flex;
+    width: 100%;
+}
+.design{
+    width:40%;
+    margin-left: 5%;
+}
+.design img{
+    width:60%;
+    margin-left: 24%;
+}
+.design h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.design p{
+    color:black;
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.middle{
+    margin-top: 100px;
+}
+.middle p{
+    margin-left: 50px;
+}
+.middle h1{
+    margin-left: 50px;
+}
+.middle a{
+    margin-left: 50px;
 }
