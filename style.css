@@ -41,6 +41,7 @@ body{
 }
 #color-it{
     color:darkcyan;
+    font-family: 'Lobster', cursive;
 }
 .top-bottom{
     width:100%;
@@ -125,7 +126,7 @@ body{
     margin-left: 5%;
 }
 footer{
-    background-color: cornflowerblue; 
+    background-color: black; 
     text-align: center;
     font-style: italic;
 }
@@ -136,7 +137,8 @@ footer h2{
 }
 footer p{
     font-size: 20px;
+    color: wheat;
 }
 #c-change{
-    color:brown
+    color:brown;
 }
