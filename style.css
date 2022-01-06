@@ -31,10 +31,11 @@ body{
     margin-bottom:25px;  
 }
 .link-design{
-    background: rgb(221, 129, 107);
+    background: rgb(221, 129, 107); 
     padding: 15px 25px;
     text-decoration: none;
     color: white;
+    border-radius: 10px;
 }
 #extra{
     margin-top: 30px;
